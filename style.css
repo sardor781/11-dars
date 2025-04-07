@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#hero{
+    background-image: url(./slider2\ 1.png);
+}
+header{
+    border: 1px solid rgb(102, 102, 102);
+    width: 80%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+header .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+}
+nav a{
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+#hero h6{
+    font-size: 28px;
+    color: rgb(255, 253, 253);
+}
+nav{
+    display: flex;
+    gap: 69px;
+    align-items: center;
+}
+#hero form {
+    background: rgb(255, 255, 255);
+    width: 300px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+}
+.box{
+    width: 80%;
+    margin: auto;
+}
+.box h1{
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    margin-top: 50px;
+}
+.box button{
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+    width: 109px;
+height: 55px;
+background: rgb(118, 185, 0);
+margin-top: 70px;
+border: none;
+}
+ h2{
+    color: rgb(0, 0, 0);
+    font-size: 48px;
+    text-align: center;
+}
+#hero1 .box1 p{
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+#hero1 .container{
+    width: 290px;
+    height: 302px;
+    box-shadow: 0px 17px 27px -4px rgba(0, 0, 0, 0.25);
+background: rgb(255, 255, 255);
+margin-top: 100px;
+}
+#hero1 .box1 h3{
+    color: rgb(0, 0, 0);
+    margin-top: 20px;
+    margin-left: 50px;
+}
+#hero1{
+    background: rgb(229, 229, 229);
+    width: 95%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+.footer{
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+    background: rgb(255, 252, 252);
+}
+.footer h5{
+    color: rgb(103, 185, 0);
+font-size: 48px;
+margin-top: 30px;
+}
+.footer p{
+    color: rgb(0, 0, 0);
+font-size: 18px;
+margin-top: 40px;
+}
+.footer button{
+    color: rgb(0, 0, 0);
+    width: 233px;
+    height: 62px;
+    background: rgb(118, 185, 0);
+font-size: 18px;
+margin-top: 40px;
+border: none;
+}
+.footer .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+}
+footer{
+    display: flex;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+    width: 1276px;
+    height: 111px;
+background: rgb(255, 255, 255);
+}
+footer .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+}
+footer h4{
+    color: rgb(102, 102, 102);
+font-size: 18px;
+}
+.box3{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+}
